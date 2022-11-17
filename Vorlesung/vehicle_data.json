@@ -1,0 +1,62 @@
+[
+  {
+    "vehicle_brand": "Mercedes-Benz",
+    "color": "black",
+    "seats": 4,
+    "engine": {
+      "cylinder": 4,
+      "max_speed": 220
+    },
+    "weight": 150000
+  },
+  {
+    "vehicle_brand": "Mercedes-Benz",
+    "color": "red",
+    "seats": 2,
+    "engine": {
+      "cylinder": 6,
+      "max_speed": 320
+    },
+    "weight": 155000
+  },
+  {
+    "vehicle_brand": "BMW",
+    "color": "white",
+    "seats": 4,
+    "engine": {
+      "cylinder": 4,
+      "max_speed": 290
+    },
+    "weight": 210500
+  },
+  {
+    "vehicle_brand": "BMW",
+    "color": "black",
+    "seats": 4,
+    "engine": {
+      "cylinder": 4,
+      "max_speed": 220
+    },
+    "weight": 150000
+  },
+  {
+    "vehicle_brand": "Mercedes-Benz",
+    "color": "yellow",
+    "seats": 4,
+    "engine": {
+      "cylinder": 6,
+      "max_speed": 310
+    },
+    "weight": 175000
+  },
+  {
+    "vehicle_brand": "Audi",
+    "color": "black",
+    "seats": 6,
+    "engine": {
+      "cylinder": 8,
+      "max_speed": 290
+    },
+    "weight": 195000
+  }
+]
