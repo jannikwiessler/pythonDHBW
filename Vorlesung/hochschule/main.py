@@ -16,6 +16,7 @@ if __name__ == "__main__":
                          "lecturer": marlen}
                }
     dhbw = University(location="Loerrach", rooms=20, courses=courses)
-
-    jannik.grade_student(student=tobias, grade=1.5)
-    print(tobias.grade)
+    marlen.university = dhbw
+    jannik.university = dhbw
+    jannik.grade_student(student=joe, grade=1.5)
+    print(joe.grade)
